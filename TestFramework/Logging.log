@@ -1,0 +1,3 @@
+INFO    2023-06-12 11:43:14,574 [main] devpinoyLogger  - lauched the app successfully
+INFO    2023-06-12 11:43:15,049 [main] devpinoyLogger  - clicked on login or register link
+INFO    2023-06-12 11:43:15,065 [main] devpinoyLogger  - successfully navigated to accounts login page
